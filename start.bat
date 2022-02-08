@@ -1,0 +1,2 @@
+python DingAutoDing.py
+pause
