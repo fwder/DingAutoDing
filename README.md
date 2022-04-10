@@ -1,7 +1,7 @@
 # DingAutoDing
 钉钉自动进入直播python脚本，支持Windows服务器
 
-**[博客地址](https://www.fwder.cn/index.php/archives/310/)**
+**[博客地址](https://blog.fwder.cn/2022/02/08/%E3%80%90%E6%95%99%E7%A8%8B%E3%80%91%E9%92%89%E9%92%89%E5%A4%9A%E5%BC%80-%E6%8C%82%E7%BD%91%E8%AF%BE%E6%95%99%E7%A8%8B%E5%8F%8A%E6%BA%90%E7%A0%81%E5%88%86%E4%BA%AB)**
 
 ## 准备
 
